@@ -1,5 +1,11 @@
+* { margin: 0; padding: 0; }
+
+html {
+    height: 100%;
+}
+
 body {
-    background-image: url("Images/pexels-jakub-novacek-924824.jpg");
+    background-image: url("Images/pexels-aarti-vijay-2693529.jpg");
     background-color: #cccccc;
     background-size: cover;
 
