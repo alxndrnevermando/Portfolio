@@ -10,3 +10,22 @@ body {
     background-size: cover;
 
    }
+
+.container {
+    background: white;
+    margin-top: 50px;
+    padding-bottom: 10px;
+    width:1500px;
+}
+
+form {
+    background: white;
+    margin-top: 50px;
+    padding-bottom: 10px;
+    width:1500px;
+}
+
+.form-group {
+    background: white;
+
+}
