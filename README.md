@@ -8,7 +8,7 @@ This is barely weekj 3, so I can't give up yet!!
 
 ## Screenshot
 
-![Alt text](/relative/path/to/img.jpg?raw=true "Optional Title")
+![Uploading Screen Shot 2020-10-17 at 11.11.14 PM copy.jpg…]()
 
 ## Features
 
