@@ -8,7 +8,7 @@ This is barely weekj 3, so I can't give up yet!!
 
 ## Screenshot
 
-![Uploading Screen Shot 2020-10-17 at 11.11.14 PM copy.jpg…]()
+![Screen Shot 2020-10-17 at 11 11 14 PM copy](https://user-images.githubusercontent.com/71421032/96360140-f5ea1c00-10ce-11eb-96cf-b9d345d45521.jpg)
 
 ## Features
 
