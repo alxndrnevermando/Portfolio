@@ -17,11 +17,11 @@ body {
     background: white;
     margin-top: 50px;
     padding-bottom: 10px;
-    overflow: hidden;
 }
 
 form {
     background: white;
+    overflow: hidden;
 }
 
 h1 {
