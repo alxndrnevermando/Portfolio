@@ -17,13 +17,6 @@ img {
     float: left;
 }
 
-.container {
-    background: white;
-    margin-top: 50px;
-    padding-bottom: 10px;
-    overflow: hidden;
-}
-
 form {
     background: white;
     overflow: hidden;
@@ -43,4 +36,15 @@ h1 {
    height: 300px;
    width: 300px;
 
+}
+
+.container {
+    background: white;
+    margin-top: 50px;
+    padding-bottom: 10px;
+    overflow: hidden;
+}
+
+#home {
+    margin: 10px;
 }
