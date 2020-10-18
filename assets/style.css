@@ -17,6 +17,7 @@ body {
     background: white;
     margin-top: 50px;
     padding-bottom: 10px;
+    overflow: hidden;
 }
 
 form {
@@ -30,6 +31,7 @@ h1 {
 
 .form-group {
     background: white;
+    overflow: hidden;
 
 }
 
