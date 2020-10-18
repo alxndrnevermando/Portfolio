@@ -12,6 +12,10 @@ body {
     font-size: large;
 
    }
+img {
+    padding: 10px;
+    float: left;
+}
 
 .container {
     background: white;
@@ -36,7 +40,7 @@ h1 {
 }
 
 .selfie {
-   height: 500px;
-   width: 400px;
+   height: 300px;
+   width: 300px;
 
 }
