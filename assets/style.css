@@ -39,12 +39,15 @@ h1 {
 }
 
 .container {
-    background: white;
+    color: white;
     margin-top: 50px;
     padding-bottom: 10px;
     overflow: hidden;
 }
 
+a {
+    color: azure;
+}
 #home {
     margin: 10px;
 }
