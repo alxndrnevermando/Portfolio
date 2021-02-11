@@ -1,10 +1,12 @@
 ## homework-2
 
-Whew! This was truly an exercise in patience. I have a little experience in designing a simple portfolio/bio website, but that did not make it any easier. I think I over complicated the Bootstrap grid layout in my about and contact, since I would go throught a similar chain of tasks before landing on what I wanted: copy bootstrap content into file --> add some CSS to make it look slightly nicer --> realize this messed up my flow --> troubleshoot for hours --> realize that what I needed to do was minimeze the CSS styling so as to not override the inherent styling of the bootstrap content. Overall, I am probably still not 100% not satisfied with how it ended, but I think I accomplished the goal of this assignment.
+## Demo
+
+
 
 ## Motivation
 
-This is barely weekj 3, so I can't give up yet!!
+Week 17 is here, almost at the finish line!!!
 
 ## Screenshot
 
