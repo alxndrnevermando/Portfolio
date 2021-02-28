@@ -26,6 +26,10 @@ h1 {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
+a {
+    color: tan;
+}
+
 .form-group {
     background: white;
     overflow: hidden;
@@ -42,12 +46,17 @@ h1 {
     color: white;
     margin-top: 50px;
     padding-bottom: 10px;
-    overflow: hidden;
+    overflow: auto
 }
 
-a {
-    color: azure;
+.card {
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+
+    
 }
+
 #home {
     margin: 10px;
 }

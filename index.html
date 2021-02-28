@@ -1,74 +1,58 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Home Page</title>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Home Page</title>
 
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/css/bootstrap.min.css" integrity="sha384-TX8t27EcRE3e/ihU7zmQxVncDAy5uIKz4rEkgIXeMed4M0jlfIDPvg6uqKI2xXr2" crossorigin="anonymous">
-    <link rel="stylesheet" href="assets/style.css">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/css/bootstrap.min.css"
+    integrity="sha384-TX8t27EcRE3e/ihU7zmQxVncDAy5uIKz4rEkgIXeMed4M0jlfIDPvg6uqKI2xXr2" crossorigin="anonymous">
+  <link rel="stylesheet" href="assets/style.css">
 
 </head>
 <body>
-    <!--Navigation Bar-->
-    <header>    
-        <nav class="navbar navbar-expand-lg navbar-light bg-light">
-        <a class="navbar-brand" href="#">Welcome!</a>
-        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarText" aria-controls="navbarText" aria-expanded="false" aria-label="Toggle navigation">
-          <span class="navbar-toggler-icon"></span>
-        </button>
-        <div class="collapse navbar-collapse" id="navbarText">
-          <ul class="navbar-nav mr-auto">
-            <li class="nav-item active">
-              <a class="nav-link" href="index.html">Home <span class="sr-only">(current)</span> </a>
-            </li>
-            <li class="nav-item">
-              <a class="nav-link" href="portfolio.html">Portfolio</a>
-            </li>
-            <li class="nav-item">
-              <a class="nav-link" href="contact.html">Contact</a>
-            </li>
-          </ul>
-        </div>
-      </nav>
-    </header>
-    
-    <img src="assets/Images/armando.jpeg" class="rounded float-left" alt="Picture of black-haired, yound adult male. Has tan complexion and jovial face." width="300" height="400">
-
-    <div id="home" class="container">
-      <div class="row">
-        <div class="col-md-8">
-          <h1>Armando Contreras</h1>
-        </div>
-          <div class="row">
-            <div class="col-sm-6">
-              <p>Hi visitor, thanks for dropping by my website. My name is Armando Contreras, and I am a administrative assistant looking to become a software engineer.
-                I have some experience with HTML, CSS, and JavaScript and working with concepts of accessibility and semantic HTML. I graduated from UCLA with a degee in
-                history and a minor in Spanish, and am excited to move forward with this new change in direction!
-              </p>
-            </div>
-            <div class="col-sm-6">
-              <h2>Follow Me</h2>
-              <ul>
-                <li> <a href="mailto:armandocontreras62596@gmail.com">Email</a> </li>
-                <li> <a href="https://github.com/alxndrnevermando">Github</a></li>
-                <li> <a href="https://linkedin.com/in/armando-contreras-86011b172/">LinkedIn</a></li>
-              </ul>
-              <h2>Call Me</h2>
-              <ul>
-                <li>760-382-5667</li>
-              </ul>
-              <h2>Resume</h2>
-              <ul>
-                <li> <a href="media/Resume.pdf">Download!</a> </li>
-              </ul>
-            </div>
-          </div>
-        <div class="col-md-3">
-        </div>
+  <!--Navigation Bar-->
+  <header>
+    <nav class="navbar navbar-expand-lg navbar-light bg-light">
+      <a class="navbar-brand" href="#">Welcome!</a>
+      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarText"
+        aria-controls="navbarText" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+      <div class="collapse navbar-collapse" id="navbarText">
+        <ul class="navbar-nav mr-auto">
+          <li class="nav-item active">
+            <a class="nav-link" href="index.html">Home <span class="sr-only">(current)</span> </a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="portfolio.html">Portfolio</a>
+          </li>
+        </ul>
       </div>
+    </nav>
+  </header>
+  <!--Body-->
+  <div class="card" style="width: 30rem;">
+    <img class="card-img-top" src="assets/Images/armando.jpeg"
+      alt="Picture of black-haired, yound adult male. Has tan complexion and jovial face.">
+    <div class="card-body">
+      <h5 class="card-title">Armando Contreras</h5>
+      <p class="card-text">Hi visitor, thanks for dropping by my website. My name is Armando Contreras, and I am an aspiring software engineer.
+        I have experience working and creating applications using HTML, CSS, Javascript and different technologies such as node.JS, mongoDB & REACT. I currently take class at UCLA Extension Coding Bootcamp, and am excited to show you what I can do. My portfolio highlights projets built from scratch in pairs with other students at our Bootcamp. Additionally, there are links to my homework assignments that I feel best demonstrate my abilities.</p>
     </div>
-    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
-    <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ho+j7jyWK8fNQe+A12Hb8AhRq26LrZ/JpcUGGOn+Y7RsweNrtN/tE3MoK7ZeZDyx" crossorigin="anonymous"></script>
+    <div class="card-body">
+      <a href="mailto:armandocontreras62596@gmail.com" class="card-link">Email</a>
+      <a href="https://github.com/alxndrnevermando" class="card-link">Github</a>
+      <a href="https://linkedin.com/in/armando-contreras-86011b172/" class="card-link">LinkedIn</a>
+      <a href="media/Resume.pdf" class="card-link">Resume</a>
+    </div>
+  </div>
+  <!--Bootstrap-->
+  <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"
+    integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj"
+    crossorigin="anonymous"></script>
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/js/bootstrap.bundle.min.js"
+    integrity="sha384-ho+j7jyWK8fNQe+A12Hb8AhRq26LrZ/JpcUGGOn+Y7RsweNrtN/tE3MoK7ZeZDyx"
+    crossorigin="anonymous"></script>
 </body>
 </html>
